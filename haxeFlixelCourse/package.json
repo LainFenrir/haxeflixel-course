@@ -1,0 +1,15 @@
+{
+  "name": "haxeFlixelCourse",
+  "version": "1.0.0",
+  "description": "Learning HaxeFlixel Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LunarKreatures",
+  "license": "MIT",
+  "dependencies": {
+    "lix": "^15.9.1"
+  }
+}
